@@ -7,5 +7,5 @@ L'obbiettivo, del progetto, è di sviluppare un'applicazione per democratizzare 
 
 ## Link
 
-GitHub host: https://keeeenny.github.io/JsAdvancedProject.github.io/ </br>
-Firebase host: https://news-js-project.web.app/
+GitHub host: https://keeeenny.github.io/JsProject.github.io/ </br>
+Netfly host: https://kenjsproject.netlify.app/
