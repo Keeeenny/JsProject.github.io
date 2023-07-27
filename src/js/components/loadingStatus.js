@@ -1,8 +1,8 @@
-function isLoading(value){
-  const loading = document.getElementById('loading')
+function isLoading(value) {
+  const loading = document.getElementById("loading");
 
-  if (value == true) loading.classList.remove('hidden')
-  else loading.classList.add('hidden')
+  if (value == true) loading.classList.remove("hidden");
+  else loading.classList.add("hidden");
 }
 
-export default isLoading 
+export default isLoading;

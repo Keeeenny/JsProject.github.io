@@ -1,3 +1,3 @@
-import init from './api/apiCalls.js';
+import init from "./api/apiCalls.js";
 
-init()
+init();
